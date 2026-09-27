@@ -635,6 +635,19 @@
       "url": "https://github.com/BasedHardware/omi/pull/19218",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19219",
       "description": "Authored and submitted conversations -> JSON Lines (JSONL) export recipe (conversations_to_jsonl.py), documentation (conversations_jsonl.md), and unit tests (5/5 passing)."
+    },
+    {
+      "action_id": "ACT_052",
+      "type": "CASH_BOUNTY_PR",
+      "target": "BasedHardware/omi#19359",
+      "proposal_issue": "BasedHardware/omi#19360",
+      "amount_usd": 25.0,
+      "amount_vnd": 625000,
+      "payout_method": "Base USDC / PayPal USD",
+      "status": "submitted_pr_open",
+      "url": "https://github.com/BasedHardware/omi/pull/19359",
+      "issue_url": "https://github.com/BasedHardware/omi/issues/19360",
+      "description": "Authored and submitted memories -> Anki flashcards (.tsv) export recipe (memories_to_anki.py), documentation (memories_anki.md), and unit tests (5/5 passing). 100% untouched zero-competition topic."
     }
   ],
   "actual_revenue": {
@@ -677,12 +690,12 @@
   "last_cloud_run": "2026-09-26 13:38:40",
   "cloud_runner": "GitHub Actions 24/7 Autonomous Agent",
   "total_pipeline_vnd": 18820000,
-  "last_updated": "2026-09-27T14:39:09.613510",
+  "last_updated": "2026-09-27T15:03:16.367767",
   "dex_rate_rtc_usd": 0.08,
   "dex_rate_rtc_vnd": 2000,
   "total_pipeline_vnd_dex": 1233000,
-  "pending_direct_cash_usd": 0.0,
-  "pending_direct_cash_vnd": 0,
+  "pending_direct_cash_usd": 25.0,
+  "pending_direct_cash_vnd": 625000,
   "rtc_status": "ARCHIVED_TERMINATED",
   "rtc_notes": "Token RTC lacks external liquidity and has locked bridge. All tracking permanently discontinued per user directive.",
   "active_focus": "FAST_HIGH_LIQUIDITY_CASH",
@@ -691,8 +704,8 @@
     "PayPal": "lnhhoang2k5@gmail.com",
     "TPBank": "20058999999 (LE NGUYEN HUY HOANG)"
   },
-  "total_real_cash_pipeline_usd": 25.0,
-  "total_real_cash_pipeline_vnd": 625000,
+  "total_real_cash_pipeline_usd": 50.0,
+  "total_real_cash_pipeline_vnd": 1250000,
   "total_approved_cash_usd": 25.0,
   "total_approved_cash_vnd": 625000
 }
