@@ -522,7 +522,7 @@
       "amount_usd": 25.0,
       "amount_vnd": 625000,
       "payout_method": "Base USDC / PayPal USD",
-      "status": "submitted_pr_open",
+      "status": "CLOSED_DUPLICATE_PRIOR_ISSUE_EXISTS",
       "url": "https://github.com/BasedHardware/omi/pull/19185",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19186",
       "description": "Authored and submitted Vietnamese (vi) agent quickstart guide (agent_quickstart.vi.md) with 100% structural parity, clean AST parsing, and README entry."
@@ -535,7 +535,7 @@
       "amount_usd": 25.0,
       "amount_vnd": 625000,
       "payout_method": "Base USDC / PayPal USD",
-      "status": "submitted_pr_open",
+      "status": "CLOSED_DUPLICATE_PRIOR_ISSUE_EXISTS",
       "url": "https://github.com/BasedHardware/omi/pull/19188",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19189",
       "description": "Authored and submitted memories -> SQLite export utility (memories_to_sqlite.py), complete documentation (memories_sqlite.md), and unit test suite (8/8 passing)."
@@ -548,7 +548,7 @@
       "amount_usd": 25.0,
       "amount_vnd": 625000,
       "payout_method": "Base USDC / PayPal USD",
-      "status": "submitted_pr_open",
+      "status": "CLOSED_DUPLICATE_PRIOR_ISSUE_EXISTS",
       "url": "https://github.com/BasedHardware/omi/pull/19190",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19191",
       "description": "Authored and submitted Indonesian (id) agent quickstart guide (agent_quickstart.id.md) with 100% structural parity, AST validated code, and README index entry."
@@ -561,7 +561,7 @@
       "amount_usd": 25.0,
       "amount_vnd": 625000,
       "payout_method": "Base USDC / PayPal USD",
-      "status": "submitted_pr_open",
+      "status": "CLOSED_DUPLICATE_PRIOR_ISSUE_EXISTS",
       "url": "https://github.com/BasedHardware/omi/pull/19192",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19193",
       "description": "Authored and submitted Italian (it) agent quickstart guide (agent_quickstart.it.md) with 100% structural parity, AST validated code, and README index entry."
@@ -574,14 +574,15 @@
       "amount_usd": 25.0,
       "amount_vnd": 625000,
       "payout_method": "Base USDC / PayPal USD",
-      "status": "MERGED_APPROVED_DISBURSEMENT_PENDING",
+      "status": "MERGED_AND_ACCEPTED_AWAITING_DISBURSEMENT",
       "url": "https://github.com/BasedHardware/omi/pull/19194",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19195",
       "description": "Authored and submitted Thai (th) agent quickstart guide (agent_quickstart.th.md) with 100% structural parity, AST validated code, and README index entry.",
       "merged_at": "2026-09-26T14:42:53Z",
       "merged_by": "kodjima33",
       "merge_commit_sha": "5e99bb5e663ab379969cc760e3d1fe06f5c0d024",
-      "claim_comment_url": "https://github.com/BasedHardware/omi/issues/19195#issuecomment-5847286092"
+      "claim_comment_url": "https://github.com/BasedHardware/omi/issues/19195#issuecomment-5847286092",
+      "completion_note": "Confirmed merged into origin/main by @kodjima33 and closed as completed by @aryanorastar."
     },
     {
       "action_id": "ACT_048",
@@ -591,7 +592,7 @@
       "amount_usd": 25.0,
       "amount_vnd": 625000,
       "payout_method": "Base USDC / PayPal USD",
-      "status": "submitted_pr_open",
+      "status": "CLOSED_DUPLICATE_PRIOR_ISSUE_EXISTS",
       "url": "https://github.com/BasedHardware/omi/pull/19201",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19202",
       "description": "Authored and submitted Russian (ru) agent quickstart guide (agent_quickstart.ru.md) with 100% structural parity, AST validated code, and README index entry."
@@ -604,7 +605,7 @@
       "amount_usd": 25.0,
       "amount_vnd": 625000,
       "payout_method": "Base USDC / PayPal USD",
-      "status": "submitted_pr_open",
+      "status": "CLOSED_DUPLICATE_PRIOR_ISSUE_EXISTS",
       "url": "https://github.com/BasedHardware/omi/pull/19204",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19205",
       "description": "Authored and submitted action items -> HTML dashboard export recipe (action_items_to_html.py), documentation (action_items_html.md), and unit tests (6/6 passing)."
@@ -617,7 +618,7 @@
       "amount_usd": 25.0,
       "amount_vnd": 625000,
       "payout_method": "Base USDC / PayPal USD",
-      "status": "submitted_pr_open",
+      "status": "CLOSED_DUPLICATE_PRIOR_ISSUE_EXISTS",
       "url": "https://github.com/BasedHardware/omi/pull/19206",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19207",
       "description": "Authored and submitted memories -> JSON Lines (JSONL) export recipe (memories_to_jsonl.py), documentation (memories_jsonl.md), and unit tests (5/5 passing)."
@@ -630,7 +631,7 @@
       "amount_usd": 25.0,
       "amount_vnd": 625000,
       "payout_method": "Base USDC / PayPal USD",
-      "status": "submitted_pr_open",
+      "status": "CLOSED_DUPLICATE_PRIOR_ISSUE_EXISTS",
       "url": "https://github.com/BasedHardware/omi/pull/19218",
       "issue_url": "https://github.com/BasedHardware/omi/issues/19219",
       "description": "Authored and submitted conversations -> JSON Lines (JSONL) export recipe (conversations_to_jsonl.py), documentation (conversations_jsonl.md), and unit tests (5/5 passing)."
@@ -676,12 +677,12 @@
   "last_cloud_run": "2026-09-26 13:38:40",
   "cloud_runner": "GitHub Actions 24/7 Autonomous Agent",
   "total_pipeline_vnd": 18820000,
-  "last_updated": "2026-09-26T22:44:37.683364",
+  "last_updated": "2026-09-27T14:39:09.613510",
   "dex_rate_rtc_usd": 0.08,
   "dex_rate_rtc_vnd": 2000,
   "total_pipeline_vnd_dex": 1233000,
-  "pending_direct_cash_usd": 200.0,
-  "pending_direct_cash_vnd": 5000000,
+  "pending_direct_cash_usd": 0.0,
+  "pending_direct_cash_vnd": 0,
   "rtc_status": "ARCHIVED_TERMINATED",
   "rtc_notes": "Token RTC lacks external liquidity and has locked bridge. All tracking permanently discontinued per user directive.",
   "active_focus": "FAST_HIGH_LIQUIDITY_CASH",
@@ -690,8 +691,8 @@
     "PayPal": "lnhhoang2k5@gmail.com",
     "TPBank": "20058999999 (LE NGUYEN HUY HOANG)"
   },
-  "total_real_cash_pipeline_usd": 225.0,
-  "total_real_cash_pipeline_vnd": 5625000,
+  "total_real_cash_pipeline_usd": 25.0,
+  "total_real_cash_pipeline_vnd": 625000,
   "total_approved_cash_usd": 25.0,
   "total_approved_cash_vnd": 625000
 }
